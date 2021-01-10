@@ -1,2 +1,3 @@
 # troll-blog
-practice blog to learn html and css prcesses
+practice blog to learn html and css processes
+  
