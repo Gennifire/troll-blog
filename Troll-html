@@ -17,52 +17,22 @@
 <body>
     <div class="beginning">
 		  <h1>Trolls</h1>
+		  <p>Yo this is a story all about trolls.</p>
 			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Theodor_Kittelsen_-_Skogtroll%2C_1906_%28Forest_Troll%29.jpg/170px-Theodor_Kittelsen_-_Skogtroll%2C_1906_%28Forest_Troll%29.jpg">
-        
-		  <h2> Trolls exist in a lot of folklore.
-		  </h2>   
-		    <table>
-		      <thead>
-		      	      <tr>
-			         <th>Norwegian</th>
-				 <th>Danish</th>
-				 <th>Icelandic</th>
-			      </tr>
-		     </thead>
-			    <tbody>
-			      <tr>
-			        <td>Ymir</td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			      <tr>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			      </tr>
-			      <tr>
-			        <td></td>
-			        <td></td>
-			        <td></td>
-			     </tr>
-			  </tbody>
-		  </table>
-  </div>
+    </div>
 	
-  <div class="about">
+	<div class="about">
 		 	<p><strong> Trolls!!</strong> </p>  
 			<p> Troll folklore has facsinated me since i was a little girl. </p>
 			<p> My parents got me a book on troll for xmas and inside there were the most beautiful images of trolls.</p>
 			<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/John_Bauer_1915.jpg" height="300px">
   </div>
-	
   <div class="information">      
       
-			<p> Trolls live in a lot of folklore, stories and songs.</p>
-			<p>I think there is not nearly enough modern media involving trolls. </p>
+			<p> Trolls live in a lot of folklore, strories and songs.</p>
+			<p> I absolutely love trolls. And what better place to learn all about them, than their country of origin. <strong> NORWAY!</strong></p>
   </div>
-	
-  <div class="links">
+	<div class="links">
 		<h2>What you could learn</h2>
 			<ul>
 				<li><a href="https://owlcation.com/social-sciences/troll-of-norway#:~:text=%20However,%20we%20have%20learned%20the%20names%20of,Geirr%C3%B6d%E2%80%94A%20j%C3%B6tunn%20and%20father%20of%20giantes...%20More" target="_blank">The history of trolls</a></li>
@@ -72,8 +42,8 @@
       </ul>
 	</div>		
     
-  <div class="media">
-		<h2 >Troll song</h2>
+	<div class="media">
+		<h2 >Troll song</h2> <!--add moore songs and poems-->
     
 			<p class="troll-song"> Troll sat alone on his seat of stone,<br>
 			And munched and mumbled a bare old bone;<br>
@@ -90,42 +60,71 @@
 			Caveyard! Paveyard!<br>
 			This many a year has Tim been gone,<br>
 			And I thought he were lyin' in graveyard..."  <br> By: JRR tolkien</p>
-  </div>	
+	</div>	
   
-  <div class="media">
-		<h2>Images
-		</h2>
-		  <img src="http://img2.wikia.nocookie.net/__cb20141214224548/elderscrolls/images/8/8f/Troll_(Skyrim).png" alt="Video game troll" height="200px">
-        	  <img src="https://vignette.wikia.nocookie.net/villains/images/8/81/991_TROLLHUNTER.jpg/revision/latest/scale-to-width-down/300?cb=20180110071815" alt="Movie troll" height="200px">
-		  <img src="http://img4.wikia.nocookie.net/__cb20130619211643/mythology/images/5/5b/Troll-2.jpg" alt="Folklore troll" height="200px">
+  <div class="images">
+		<h2>Images</h2>
+		    <img src="http://img2.wikia.nocookie.net/__cb20141214224548/elderscrolls/images/8/8f/Troll_(Skyrim).png" alt="Video game troll" height="200px">
+			<img src="https://vignette.wikia.nocookie.net/villains/images/8/81/991_TROLLHUNTER.jpg/revision/latest/scale-to-width-down/300?cb=20180110071815" alt="Movie troll" height="200px">
+		    <img src="http://img4.wikia.nocookie.net/__cb20130619211643/mythology/images/5/5b/Troll-2.jpg" alt="Folklore troll" height="200px">
   </div>
+  <div>
+		  <h2> Trolls exist in a lot of folklore.
+		  </h2>   
+		    <table>
+		      <thead>
+             <tr>
+			         <th>Norwegian</th>
+				       <th>Danish</th>
+				       <th>Icelandic</th>
+			      </tr>
+			  </thead>
+			    <tbody>
+			      <tr>
+			        <td>Ymir</td>
+			        <td></td>
+			        <td></td>
+			      </tr>
+			      <tr>
+			        <td></td>
+			        <td></td>
+			        <td></td>
+			      </tr>
+			      <tr>
+			        <td></td>
+			        <td></td>
+			        <td></td>
+			     </tr>
+			  <tbody>
+		  </table>
+   </div>
   <div>
 		<h2>Famous trolls</h2>
 			<ul>
-				<li>Grendel—A troll made famous by Beowulf.</li>
-				<li>Dunker—Troll depicted in a folktale from Fosen.</li>
-				<li>Dovregubben—The troll king in Peer Gynt.</li>
-				<li>Hrungnir—The stongest giant in Norse mythology.</li>
-				<li>Trym—The king of giants in Jotunheimen region.</li>
-				<li>Geirröd—A jötunn and father of giantesses Gjalp and Greip.</li>
-				<li>Ymer—The oldest creature in the Norse universe.</li>
+				<li><img src="https://i.pinimg.com/originals/fc/a0/57/fca057eded699f17cf2871a50a64e856.jpg" height="200px" width="250px">Grendel—A troll made famous by Beowulf.</li>
+				<li><img src="https://img0.etsystatic.com/068/0/5679859/il_570xN.769917694_4j2o.jpg" height="200px" width="250px">Dunker—Troll depicted in a folktale from Fosen.</li>
+				<li><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3830d21e-2f74-4d6b-af6e-1a65a6900132/dxkg8u-e8c74b07-a82f-4bde-9e80-78e51ec595a2.jpg/v1/fill/w_600,h_793,q_75,strp/dovregubben_by_feriluc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zODMwZDIxZS0yZjc0LTRkNmItYWY2ZS0xYTY1YTY5MDAxMzIvZHhrZzh1LWU4Yzc0YjA3LWE4MmYtNGJkZS05ZTgwLTc4ZTUxZWM1OTVhMi5qcGciLCJ3aWR0aCI6Ijw9NjAwIiwiaGVpZ2h0IjoiPD03OTMifV1dfQ.PRGM8V2Mf8hu3LjqapCrOsjjBvptPTFrCg09_eGe7BE" height="200px" width="250px"> Dovregubben—The troll king in Peer Gynt.</li>
+				<li><img src="https://i.pinimg.com/originals/95/8f/eb/958febfef0e9a9c4f26ddd222c381bba.png" height="200px" width="250px"> Hrungnir- The stongest giant in Norse mythology.</li>
+				<li><img src="https://vignette.wikia.nocookie.net/the-demonic-paradise/images/d/d9/Thrym.jpg/revision/latest?cb=20161006075706" height="200px" width="250px"> Trym—The king of giants in Jotunheimen region.</li>
+				<li><img src="https://mythologica.fr/nordique/pic/geirroed.jpg" height="200px" width="250px">Geirröd—A jötunn and father of giantesses Gjalp and Greip.</li>
+				<li><img src="https://th.bing.com/th/id/OIP.zD1nNii-nCQioLVRBmZiagHaEK?pid=Api&rs=1" height="200px" width="250px"> Ymer—The oldest creature in the Norse universe.</li>
 			</ul>
 			
 		<h2> Ymir </h2>
-			  <img src="https://th.bing.com/th/id/OIP.zD1nNii-nCQioLVRBmZiagHaEK?pid=Api&rs=1">
+			  
 			  <p> Ymer or Ymir, is the oldest known creature in norse mythology. There are many tales of his origin and deeds including the one below.</p>
        
 			  <a href="https://www.youtube.com/watch?v=PskDLbP1x1o" target="_blank"> Ymir video link </a> <!--Make this loadable on the page-->
         
-       		 <p> Te story goes that the fires of musfilheim and the ice of jotenheim met. <br> 
-        		This meeting of 2 opposing elements caused each to react to the other, the fires of musfelheim dimmed ever so slightly <br>
-        		and the ice of jotenheim melted and dripped down upon the earth.</p>
-        	<p> This water dripping down upon the earth gave life to the first being Ymir, who is said to be a being of life itself. <br>
-        		His blood can create an explosion of life where it is shed, his breath breathes life, <br>
-        	<!--Edit this part to be correct and have a little bit about each named troll-->
+        <p> The story goes that the fires of Muspelheim and the ice of Jotenheim met in the void called Ginnungagap. <br> 
+        This meeting of 2 opposing elements caused each to react to the other, the fires of musfelheim dimmed ever so slightly <br>
+        and the ice of jotenheim melted and dripped down upon the earth.</p>
+        <p> This water dripping down upon the earth gave life to the first being Ymir, who is said to be a being of life itself. <br>
+        His blood can create an explosion of life where it is shed, his breath breathes life, <br> <!--edit this part to be correct and have details on all the famous trolls-->
+        
   
         
-  </div>
+	</div>
 </body>
 
 <footer>
